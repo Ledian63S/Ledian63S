@@ -29,10 +29,10 @@ I found myself with a huge wall, so many concepts, so much theory and so much wo
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-### Project
+<!-- ### Project
 In the middle of 2022 I start to create my project called "Beerness Central" the idea is that it starts at the end of said year.
 <br>
 I would love to be able to organize a technical community driven by passion, where we meet people with the same interests, tell our story in BC, successes, failures, etc. If with that we can add value to other people, it is what we take with us.
 Being able to receive and give positive/constructive feedback in a friendly environment.
 <br>
-WIP BIO.
+WIP BIO.-->
