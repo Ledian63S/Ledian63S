@@ -13,7 +13,7 @@ I found myself with a huge wall, so many concepts, so much theory and so much wo
 
 
 <div> Thus began my career as a "Business Central programmer"
-<div> <img align='right' src="https://github.com/Ledian63S/Ledian63S/blob/main/res/programmer.gif" height="" width="300" alt="coding cat"></div>
+<div> <img align='right' src="https://github.com/Ledian63S/Ledian63S/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
 <!-- Complete bio novoa.dev/about -->
 </div>
 
