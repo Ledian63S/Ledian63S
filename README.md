@@ -1,5 +1,5 @@
 <a href="https://novoa.dev/" target="_blank" style="width:100%">
-    <img src="https://github.com/Ledian63S/Ledian63S/blob/main/res/3AMCoding.gif" width="100%" alt="header" border="0" />
+    <img src="https://github.com/Ledian63S/Ledian63S/blob/main/res/headerlogocoder.gif" width="100%" alt="header" border="0" />
 </a>
 
 ### About me
