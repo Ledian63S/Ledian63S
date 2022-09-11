@@ -27,6 +27,7 @@ I found myself with a huge wall, so many concepts, so much theory and so much wo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ### Project
 In the middle of 2022 I start to create my project called "Beerness Central" the idea is that it starts at the end of said year.
