@@ -1,5 +1,5 @@
 <a href="https://novoa.dev/" target="_blank" style="width:100%">
-    <img src="https://github.com/Ledian63S/Ledian63S/blob/main/res/149642872-1c7fa574-a101-4973-8419-68a836d64055.png" width="100%" alt="header" border="0" />
+    <img src="https://github.com/Ledian63S/Ledian63S/blob/main/res/headerlogocoder.gif" width="100%" alt="header" border="0" />
 </a>
 
 ### About me
@@ -13,7 +13,7 @@ I found myself with a huge wall, so many concepts, so much theory and so much wo
 
 
 <div> Thus began my career as a "Business Central programmer"
-<div> <img align='right' src="https://github.com/Ledian63S/Ledian63S/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
+<div> <img align='right' src="https://github.com/Ledian63S/Ledian63S/blob/main/res/programmer.gif" height="" width="300" alt="coding cat"></div>
 <!-- Complete bio novoa.dev/about -->
 </div>
 
