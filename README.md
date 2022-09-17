@@ -7,7 +7,7 @@ Hello, my name is Ledian Leka,
 <br>
 I consider myself a creative, correct, scattered and restless person.
 <br> 
-At the end of 2018, due to things in life, I got to know the immense world of ERP, until then I had not heard anything about Navinson/business Central or its history.
+At the end of 2020, due to things in life, I got to know the immense world of ERP, until then I had not heard anything about Navinson/business Central or its history.
 Although I had programmed for a year and a half in another technology in my previous job, everything was new to me.
 I found myself with a huge wall, so many concepts, so much theory and so much world to discover.
 
