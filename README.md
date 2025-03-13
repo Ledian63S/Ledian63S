@@ -3,14 +3,9 @@
 </a>
 
 ### About me
-Hello, my name is Ledian Leka,
-<br>
-I consider myself a creative, correct, scattered and restless person.
-<br> 
-At the end of 2020, due to things in life, I got to know the immense world of ERP, until then I had not heard anything about Navinson/business Central or its history.
-Although I had programmed for 2 years and a half in another technology in my previous job, everything was new to me.
-I found myself with a huge wall, so many concepts, so much theory and so much world to discover.
-
+Hi, I’m Ledian Leka. I’m a creative thinker with a bit of a restless mind, always seeking new challenges.
+<be>
+In late 2020, life led me to the world of ERP systems, where I discovered Business Central and Navision. With a background in a different technology, it was like starting from scratch, but that was exactly the thrill I needed. What began as a daunting challenge quickly became my passion, and I’ve been on a journey of learning and growth ever since.
 
 <div> Thus began my career as a "Business Central programmer"
 <div> <img align='right' src="https://github.com/Ledian63S/Ledian63S/blob/main/res/cat.gif" height="" width="300" alt="coding cat"></div>
