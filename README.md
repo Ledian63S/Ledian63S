@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 <div align="center">
 
 <br/>
@@ -35,5 +29,13 @@ I'm a **Dynamics 365 Business Central Developer** with 6+ years of experience, s
 <img src="https://streak-stats.demolab.com?user=Ledian63S&theme=transparent&hide_border=true" />
 
 <br/>
+
+**GitHub Activity**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Ledian63S/Ledian63S/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
