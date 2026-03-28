@@ -22,9 +22,9 @@ I'm a **Dynamics 365 Business Central Developer** with 6+ years of experience, s
 
 **GitHub Stats**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ledian63S&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-alpha-three-84.vercel.app/api?username=Ledian63S&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ledian63S&layout=compact&theme=transparent&hide_border=true" height="160" />
+<img src="https://github-readme-stats-alpha-three-84.vercel.app/api/top-langs/?username=Ledian63S&layout=compact&theme=transparent&hide_border=true" height="160" />
 
 <img src="https://streak-stats.demolab.com?user=Ledian63S&theme=transparent&hide_border=true" />
 
